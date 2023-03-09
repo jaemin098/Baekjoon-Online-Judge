@@ -34,7 +34,6 @@ int main() {
       sum = sum + 8;
     }
     
-    
      if(input[i] == 'T' || input[i] == 'U' || input[i] == 'V') {
       sum = sum + 9;
     }
