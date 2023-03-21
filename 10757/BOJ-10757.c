@@ -11,6 +11,7 @@ void reverse(char arr[]) {
   }
 }
 
+
 int main() {
   char a[10002] = { 0 };
   char b[10002] = { 0 };
@@ -40,7 +41,6 @@ int main() {
     if(sum > 9) {
       carry = 1;
     }
-    
     else {
       carry = 0;
     }
